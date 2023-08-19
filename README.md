@@ -4,7 +4,7 @@ My name is Alejandro, I'm from Spain and I'm a Fullstack Developer.
 
 * Recently graduated as a High-Level Technical Degree in Cross Platform Application Development
 * Working as a Freelance Developer
-* 2 year experience working in a real project for TMB for the company app with .NET MAUI
+* 2 years experience working in a real project for TMB for the company app with .NET MAUI
 
 ## Skills
 
