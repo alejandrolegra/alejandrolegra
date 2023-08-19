@@ -1,19 +1,19 @@
 ## Hello 👋
 
-My name is Alejandro, I'm from Spain and I'm a FullStack Multiplatform Developer.
+My name is Alejandro, I'm from Spain and I'm a Fullstack Developer.
 
-* Currently working for [@splitio](https://github.com/splitio) as a Staff SRE
-* I have a [YouTube channel](https://youtube.com/peladonerd) (in Spanish) about SRE technologies like Docker and Kubernetes.
-* I offer consulting hours, you can find a slot [here](https://peladonerd.as.me)
+* Recently graduated as a High-Level Technical Degree in Cross Platform Application Development
+* Working as a Freelance Developer
+* 1 year experience working in a real project for TMB for the company app with .NET MAUI
 
 ## Skills
 
-* Using Kubernetes in Production since 2016
-* AWS, Terraform, Docker, all the cloud stuff :) 
-* Critical thinking, decision-making and problem solving skills
-* Some Python coding
-* Special skills and experience in fast growing startups.
+* Apps Development, Android Studio, Flutter, .NET MAUI
+* Languages: C#, Java, Python, Dart, HTML5, CSS, SQL
+* Web Development
+* Frontend Developer - Backend Developer
+* Knowledge in MYSQL and API
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://fredrikson.com.ar)
+Find all of my socials and resume in my [Linkedin](https://www.linkedin.com/in/alejandro-legr%C3%A1-0aba3a251/)
